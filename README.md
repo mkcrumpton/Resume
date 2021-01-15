@@ -1,3 +1,3 @@
 # Resume
 
-Marie Crumpton's [resume][https://mkcrumpton.github.io/Resume/]
+### [Resume][https://mkcrumpton.github.io/Resume/]
